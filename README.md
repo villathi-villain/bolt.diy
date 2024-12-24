@@ -73,6 +73,7 @@ bolt.diy was originally started by [Cole Medin](https://www.youtube.com/@ColeMed
 - ⬜ Azure Open AI API Integration
 - ⬜ Perplexity Integration
 - ⬜ Vertex AI Integration
+- ⬜ Backend Connection
 
 ## Features
 
